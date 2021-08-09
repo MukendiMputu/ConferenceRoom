@@ -1,0 +1,15 @@
+INSERT INTO `users`
+VALUES (3, 'Mukendi', 'Mputu', 'MJLord93', 'mputusamy@yahoo.fr',
+        '$2a$12$o4jOVM62OseoQNsT8LVYie84TbZXTLBu5dRLEVDE7zIzPiqwZGRoi', NULL, '2020-04-21 01:51:14.450304',
+        '2020-04-21 01:51:14.450304'),
+       (4, 'Mukuna', 'Mputu', 'Mjluvnlife', 'mukuna.m@gmail.com',
+        '$2a$12$UWe3ZGZwRSAcn0gkP3UF5OQMUA9a2Kys9.EBFQC7.hITMjip9//N6', NULL, '2020-04-21 06:08:04.023869',
+        '2020-04-21 06:08:04.120090'),
+       (7, 'Tshibo', 'Mputu', 'StellaBlonde', 'mputustella@yahoo.de',
+        '$2a$12$NEpfrsuJVOvo91YJp1Ia8.oeYIbdCchC59xTckJW7.jNCVbgp4dxq', NULL, '2020-04-23 02:48:39.214204',
+        '2020-08-14 08:41:49.276732'),
+       (8, 'Beya', 'Mputu', 'BeyAngie', 'bea@live.com', '$2a$12$K2uu26HSMsGV47zdDMWPNOun3dx7ALZANqLpOv/AC4SfVB81RF8x.',
+        NULL, '2020-04-24 20:36:37.613761', '2020-04-24 20:36:37.613761'),
+       (9, 'Kamuabo', 'Mputu', 'NickDavid', 'kams.mputu@yahoo.com',
+        '$2a$12$XWDFZZQuO16/F3/XQlO7x.kM58TK70c2KW6kF2Z.vyIms7xamDYd2', NULL, '2020-04-24 23:56:27.258687',
+        '2020-04-24 23:56:27.388225');
