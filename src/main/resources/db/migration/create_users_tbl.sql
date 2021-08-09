@@ -3,7 +3,7 @@ CREATE TABLE `users` (
   `first_name` varchar(25) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `last_name` varchar(50) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `nickname` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT ',
+  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT ' ',
   `password_digest` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `picture` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `created_at` datetime(6) NOT NULL DEFAULT current_timestamp(6),
